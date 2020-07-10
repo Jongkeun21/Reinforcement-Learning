@@ -11,3 +11,4 @@
 
       1) Q-Network  
       2) DQN(Deep Q-Network) 2015
+      3) DDQN(Double DQN)
